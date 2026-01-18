@@ -259,3 +259,10 @@ A: 当前版本支持逐个生成，您可以连续制作多个视频。
 
 *本软件仅供授权用户使用，未经授权不得复制、分发或商业使用。*
 
+
+### ⭐ Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=dennicLiu/AI-Manim-Studio&type=Date)
+
+
+
