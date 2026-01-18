@@ -175,6 +175,19 @@ AI Manim Studio 是一款专业的数学教学动画视频生成工具。只需�
 - 高级功能使用技巧
 
 
+https://github.com/user-attachments/assets/c334739e-f40d-406c-b1ed-0c8c22367f9e
+
+### 视频效果展示
+
+> **观看下方实际生成的视频，了解软件的真实效果！**
+
+#### 演示视频
+
+https://github.com/user-attachments/assets/a962c5b9-80fd-4381-8312-9f2070d55931
+
+https://github.com/user-attachments/assets/72463c15-49e3-4150-87e3-5d57d8c124fb
+
+https://github.com/user-attachments/assets/08b329aa-30e3-4388-9ee3-85341d34e91e
 
 ---
 
